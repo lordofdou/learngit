@@ -10,3 +10,4 @@ not add
 after add
 branch dev
 quick and simple
+--no-ff
