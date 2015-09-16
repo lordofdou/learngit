@@ -9,4 +9,8 @@ add
 not add
 after add
 branch dev
-quick & simple
+<<<<<<< HEAD
+quick and simple
+=======
+quick and simple
+>>>>>>> feature1
